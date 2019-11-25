@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'palmar right'
+}
+
+item {
+  id: 2
+  name: 'dorsal right'
+}
+
+item {
+  id: 3
+  name: 'palmar left'
+}
+
+item {
+  id: 4
+  name: 'dorsal left'
+}
