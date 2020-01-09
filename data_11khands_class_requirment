@@ -1,0 +1,5 @@
+opencv-python==3.4.5.20
+pyautogui
+scikit-image
+pandas
+tensorflow-gpu==1.14.0
