@@ -1,6 +1,0 @@
-opencv-python
-pyautogui
-scikit-image
-
-pandas
-tensorflow-gpu==1.14
